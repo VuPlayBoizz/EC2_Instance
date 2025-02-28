@@ -1,0 +1,5 @@
+.terraform
+.terraform.*
+terraform.*
+*.pem
+Modules/09_aws_key_pair/*.pem
